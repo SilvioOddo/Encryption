@@ -1,6 +1,8 @@
 class Main {
   public static void main(String[] args) {
     //inserire parola chiave
+    String parolaChiave;
+    System.out.println("Inserisci la parola chiave");
     System.out.println("Cifriamo il nostro testo e trasformiamolo in un testo segreto!");
   }
 
